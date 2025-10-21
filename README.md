@@ -1,2 +1,2 @@
 # AnalisisPython
-Analisis de accionse mediante inteligencia artificial
+Analisis de acciones mediante inteligencia artificial
